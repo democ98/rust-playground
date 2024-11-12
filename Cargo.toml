@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "question_mark_is_operator"
+]
+resolver = "2"
+
+[workspace.package]
+edition = "2021"
+
+[workspace.dependencies]
